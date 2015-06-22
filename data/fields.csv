@@ -1,0 +1,19 @@
+id,type,style,question,,
+meet_requirements,radio,,"To be eligible for the **Hampton Roads/NSN** _Solar Ready Vets_ solar workforce training program, applicants must:
+
+0.   Be within 120 days of exit from military service at the start of training
+0.   Be willing to relocate from the **Hampton Roads/NSN** area if necessary to accept professional positions 
+0.   Participate in all course and training activities for the full duration of the program. (Absences from training must be approved by base command and coursework made up with the training instructors on the Applicant's personal time.)
+
+**DO YOU MEET THESE REQUIREMENTS?** (check one)",YES,NO
+,,inline,First Name,,
+,,inline-short,Middle Initial,,
+,,inline,Last Name,,
+,,,Military Mailing Address,,
+,,,Personal Mailing Address,,
+phone_number,,,Phone Number _(please list the best phone number for us to reach you)_,,
+,,,Military Email Address,,
+,,,Personal Email Address,,
+,,,Immediate Commanding Officer,,
+current_position,,,What is the title of your current position within the **Navy**?,,
+current_tasks,textarea,,Please describe the tasks associated with your work in this position.,,

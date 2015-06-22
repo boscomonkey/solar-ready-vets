@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "id": "meet_requirements",
+      "type": "radio",
+      "style": null,
+      "question": "To be eligible for the **Hampton Roads/NSN** _Solar Ready Vets_ solar workforce training program, applicants must:\n\n0.   Be within 120 days of exit from military service at the start of training\n0.   Be willing to relocate from the **Hampton Roads/NSN** area if necessary to accept professional positions \n0.   Participate in all course and training activities for the full duration of the program. (Absences from training must be approved by base command and coursework made up with the training instructors on the Applicant's personal time.)\n\n**DO YOU MEET THESE REQUIREMENTS?** (check one)",
+      "$extra_params": [
+        "YES",
+        "NO"
+      ]
+    },
+    {
+      "id": null,
+      "type": null,
+      "style": "inline",
+      "question": "First Name"
+    },
+    {
+      "id": null,
+      "type": null,
+      "style": "inline-short",
+      "question": "Middle Initial"
+    },
+    {
+      "id": null,
+      "type": null,
+      "style": "inline",
+      "question": "Last Name"
+    },
+    {
+      "id": null,
+      "type": null,
+      "style": null,
+      "question": "Military Mailing Address"
+    },
+    {
+      "id": null,
+      "type": null,
+      "style": null,
+      "question": "Personal Mailing Address"
+    },
+    {
+      "id": "phone_number",
+      "type": null,
+      "style": null,
+      "question": "Phone Number _(please list the best phone number for us to reach you)_"
+    },
+    {
+      "id": null,
+      "type": null,
+      "style": null,
+      "question": "Military Email Address"
+    },
+    {
+      "id": null,
+      "type": null,
+      "style": null,
+      "question": "Personal Email Address"
+    },
+    {
+      "id": null,
+      "type": null,
+      "style": null,
+      "question": "Immediate Commanding Officer"
+    },
+    {
+      "id": "current_position",
+      "type": null,
+      "style": null,
+      "question": "What is the title of your current position within the **Navy**?"
+    },
+    {
+      "id": "current_tasks",
+      "type": "textarea",
+      "style": null,
+      "question": "Please describe the tasks associated with your work in this position."
+    }
+  ]
+}

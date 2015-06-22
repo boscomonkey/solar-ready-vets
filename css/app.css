@@ -1,0 +1,35 @@
+body {
+    font-family: Verdana, Helvetica, sans-serif;
+}
+
+.default {
+    width: 100%;
+}
+
+.inline {
+    display: inline;
+}
+
+.inline-short {
+    display: inline;
+    width: 2em;
+}
+
+.field-group {
+}
+
+.field-description {
+}
+
+.user-input {
+    margin-bottom: 10px;
+}
+
+.field-group.default > input.user-input {
+    width: 100%;
+}
+
+textarea {
+    height: 4em;
+    width: 100%;
+}
