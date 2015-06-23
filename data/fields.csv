@@ -1,19 +1,1 @@
-id,type,style,question,,
-meet_requirements,radio,,"To be eligible for the **Hampton Roads/NSN** _Solar Ready Vets_ solar workforce training program, applicants must:
-
-0.   Be within 120 days of exit from military service at the start of training
-0.   Be willing to relocate from the **Hampton Roads/NSN** area if necessary to accept professional positions 
-0.   Participate in all course and training activities for the full duration of the program. (Absences from training must be approved by base command and coursework made up with the training instructors on the Applicant's personal time.)
-
-**DO YOU MEET THESE REQUIREMENTS?** (check one)",YES,NO
-,,inline,First Name,,
-,,inline-short,Middle Initial,,
-,,inline,Last Name,,
-,,,Military Mailing Address,,
-,,,Personal Mailing Address,,
-phone_number,,,Phone Number _(please list the best phone number for us to reach you)_,,
-,,,Military Email Address,,
-,,,Personal Email Address,,
-,,,Immediate Commanding Officer,,
-current_position,,,What is the title of your current position within the **Navy**?,,
-current_tasks,textarea,,Please describe the tasks associated with your work in this position.,,
+id,type,style,questionmeet_requirements,,inline,"To be eligible for the **Hampton Roads/NSN** _Solar Ready Vets_ solar workforce training program, applicants must:0.   Be within 120 days of exit from military service at the start of training0.   Be willing to relocate from the **Hampton Roads/NSN** area if necessary to accept professional positions 0.   Participate in all course and training activities for the full duration of the program. (Absences from training must be approved by base command and coursework made up with the training instructors on the Applicant's personal time.)**DO YOU MEET THESE REQUIREMENTS?** (YES/NO)",heading,,Personal and Contact Information,,inline,First Name,,inline-short,Middle Initial,,inline,Last Name,,,Military Mailing Address,,,Personal Mailing Addressphone_number,,,Phone Number _(please list the best phone number for us to reach you)_,,,Military Email Address,,,Personal Email Address,,,Immediate Commanding Officer,heading,,"Experience, Background, and Skills"current_position,,,What is the title of your current position within the **Navy**?current_tasks,textarea,,Please describe the tasks associated with your work in this position.,paragraph,,Please indicate your educational background: _(fill out all that apply)_high_school,,,High School Diploma or GEDassociate_degree,,,"Associates Degree (please list the degree and institution, if applicable)"bachelors_degree,,,"Bachelor's Degree (please list the degree and institution, if applicable)"graduate_degree,,,"Graduate Degree (please list the degree and institution, if applicable)"certifications,,,"Certifications (please list, if applicable)"trade_affiliations,,,"Trade affiliations (please list, if applicable)"experience_and_skills,textarea,,"Describe any experience and skills you have (including skills and training acquired during your military service) that makes you a good candidate for the ""Solar Ready Vets"" solar training program.",heading,,Your Professional Goals

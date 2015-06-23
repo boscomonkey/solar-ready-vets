@@ -18,7 +18,16 @@ body {
 .field-group {
 }
 
+.field-heading {
+    background-color: lightgray;
+    font-size: larger;
+    font-weight: bold;
+}
+
 .field-description {
+}
+
+.field-paragraph {
 }
 
 .user-input {

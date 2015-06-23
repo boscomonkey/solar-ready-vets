@@ -2,13 +2,15 @@
   "data": [
     {
       "id": "meet_requirements",
-      "type": "radio",
+      "type": null,
+      "style": "inline",
+      "question": "To be eligible for the **Hampton Roads/NSN** _Solar Ready Vets_ solar workforce training program, applicants must:\r\r0.   Be within 120 days of exit from military service at the start of training\r0.   Be willing to relocate from the **Hampton Roads/NSN** area if necessary to accept professional positions \r0.   Participate in all course and training activities for the full duration of the program. (Absences from training must be approved by base command and coursework made up with the training instructors on the Applicant's personal time.)\r\r**DO YOU MEET THESE REQUIREMENTS?** (YES/NO)"
+    },
+    {
+      "id": null,
+      "type": "heading",
       "style": null,
-      "question": "To be eligible for the **Hampton Roads/NSN** _Solar Ready Vets_ solar workforce training program, applicants must:\n\n0.   Be within 120 days of exit from military service at the start of training\n0.   Be willing to relocate from the **Hampton Roads/NSN** area if necessary to accept professional positions \n0.   Participate in all course and training activities for the full duration of the program. (Absences from training must be approved by base command and coursework made up with the training instructors on the Applicant's personal time.)\n\n**DO YOU MEET THESE REQUIREMENTS?** (check one)",
-      "$extra_params": [
-        "YES",
-        "NO"
-      ]
+      "question": "Personal and Contact Information"
     },
     {
       "id": null,
@@ -65,6 +67,12 @@
       "question": "Immediate Commanding Officer"
     },
     {
+      "id": null,
+      "type": "heading",
+      "style": null,
+      "question": "Experience, Background, and Skills"
+    },
+    {
       "id": "current_position",
       "type": null,
       "style": null,
@@ -75,6 +83,60 @@
       "type": "textarea",
       "style": null,
       "question": "Please describe the tasks associated with your work in this position."
+    },
+    {
+      "id": null,
+      "type": "paragraph",
+      "style": null,
+      "question": "Please indicate your educational background: _(fill out all that apply)_"
+    },
+    {
+      "id": "high_school",
+      "type": null,
+      "style": null,
+      "question": "High School Diploma or GED"
+    },
+    {
+      "id": "associate_degree",
+      "type": null,
+      "style": null,
+      "question": "Associates Degree (please list the degree and institution, if applicable)"
+    },
+    {
+      "id": "bachelors_degree",
+      "type": null,
+      "style": null,
+      "question": "Bachelor's Degree (please list the degree and institution, if applicable)"
+    },
+    {
+      "id": "graduate_degree",
+      "type": null,
+      "style": null,
+      "question": "Graduate Degree (please list the degree and institution, if applicable)"
+    },
+    {
+      "id": "certifications",
+      "type": null,
+      "style": null,
+      "question": "Certifications (please list, if applicable)"
+    },
+    {
+      "id": "trade_affiliations",
+      "type": null,
+      "style": null,
+      "question": "Trade affiliations (please list, if applicable)"
+    },
+    {
+      "id": "experience_and_skills",
+      "type": "textarea",
+      "style": null,
+      "question": "Describe any experience and skills you have (including skills and training acquired during your military service) that makes you a good candidate for the \"Solar Ready Vets\" solar training program."
+    },
+    {
+      "id": null,
+      "type": "heading",
+      "style": null,
+      "question": "Your Professional Goals"
     }
   ]
 }
