@@ -25,6 +25,12 @@ body {
     margin-bottom: 10px;
 }
 
+/* suppress <p> created by markdown */
+.field-description > p {
+    display: inline;
+    margin: 0;
+}
+
 .field-group.default > input.user-input {
     width: 100%;
 }

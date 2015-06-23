@@ -11,6 +11,7 @@ jQuery(document).ready(function() {
     function onAjaxSuccess(fieldsResult) {
         var fields = fieldsResult.data;		// loaded from JSON
         var fieldMap = {}			// maps field_id to field
+        var markdown = new Markdown.getSanitizingConverter().makeHtml;
 
         // cycle over elements and tranform fields if necessary
         fields.map(function(fld) {
@@ -27,6 +28,11 @@ jQuery(document).ready(function() {
             // if style is null, defaults to "default"
             if (!fld.style) {
                 fld.style = "default";
+            }
+
+            // create "description" field from "question" markdown
+            if (fld.question) {
+                fld.description = markdown(fld.question);
             }
 
             // if there are extra parameters, create fully fleshed
