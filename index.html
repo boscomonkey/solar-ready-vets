@@ -37,12 +37,11 @@
           <script id="radio-template" type="text/x-handlebars-template">
             <div id="{{id}}" class="field-group user-input {{style}}">
               <div class="field-description {{style}}">{{{description}}}</div>
-              {{#each radio_buttons}}
-              <input type="radio"
-                     name="{{name}}"
-                     value="{{value}}"
-                     > {{value}}
-              {{/each}}
+              <select name={{name}}>
+                {{#each radio_buttons}}
+                <option value="{{value}}">{{value}}</option>
+                {{/each}}
+              </select>
             </div>
           </script>
 

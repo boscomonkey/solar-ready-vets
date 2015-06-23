@@ -4,7 +4,7 @@
       "id": "meet_requirements",
       "type": "radio",
       "style": null,
-      "question": "To be eligible for the **Hampton Roads/NSN** _Solar Ready Vets_ solar workforce training program, applicants must:\n\n0.   Be within 120 days of exit from military service at the start of training\n0.   Be willing to relocate from the **Hampton Roads/NSN** area if necessary to accept professional positions \n0.   Participate in all course and training activities for the full duration of the program. (Absences from training must be approved by base command and coursework made up with the training instructors on the Applicant's personal time.)\n\n**DO YOU MEET THESE REQUIREMENTS?** (check one)",
+      "question": "To be eligible for the **Hampton Roads/NSN** _Solar Ready Vets_ solar workforce training program, applicants must:\n\n0.   Be within 120 days of exit from military service at the start of training\n0.   Be willing to relocate from the **Hampton Roads/NSN** area if necessary to accept professional positions \n0.   Participate in all course and training activities for the full duration of the program. (Absences from training must be approved by base command and coursework made up with the training instructors on the Applicant's personal time.)\n\n**DO YOU MEET THESE REQUIREMENTS?** (select one)",
       "$extra_params": [
         "YES",
         "NO"
