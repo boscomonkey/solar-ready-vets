@@ -56,7 +56,7 @@ jQuery(document).ready(function() {
     };
 
     function renderFields(fields) {
-        var types = ['heading', 'paragraph', 'radio', 'text', 'textarea'];
+        var types = ['checkbox', 'heading', 'paragraph', 'radio', 'text', 'textarea'];
         var type_templates = types.reduce(
             function(memo, type) {
                 var id  = '#' + type + '-template';

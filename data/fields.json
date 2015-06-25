@@ -137,6 +137,90 @@
       "type": "heading",
       "style": null,
       "question": "Your Professional Goals"
+    },
+    {
+      "id": null,
+      "type": "paragraph",
+      "style": null,
+      "question": "Please indicate why you would like a career in the solar industry? _(enter \"Y\" if true)_"
+    },
+    {
+      "id": "reason_work_outside",
+      "type": "checkbox",
+      "style": null,
+      "question": "I would like a job in which I can work outside."
+    },
+    {
+      "id": "reason_solar_energy",
+      "type": "checkbox",
+      "style": null,
+      "question": "I'm interested in solar energy and the potential it has for energy production in the United States."
+    },
+    {
+      "id": "reason_building_things",
+      "type": "checkbox",
+      "style": null,
+      "question": "I've always been good at building things with my hands and solar seems like a good fit."
+    },
+    {
+      "id": "reason_designing_things",
+      "type": "checkbox",
+      "style": null,
+      "question": "I enjoy designing projects and think solar electric systems would be a challenge."
+    },
+    {
+      "id": "reason_other",
+      "type": null,
+      "style": null,
+      "question": "Other:"
+    },
+    {
+      "id": "career_5_years",
+      "type": "textarea",
+      "style": null,
+      "question": "Regarding your career, what do you see yourself doing five years from now?"
+    },
+    {
+      "id": "career_geography",
+      "type": null,
+      "style": null,
+      "question": "Where, geographically, would you like to work once you enter civilian life?"
+    },
+    {
+      "id": "salary_expectation",
+      "type": null,
+      "style": "inline",
+      "question": "When averaged nationwide, solar installers earn roughly $24/hr, or $49,000 annually, depending on the company and location. (Some installers may earn more through commissions.) There are many opportunities for advancement within the solar industry, especially if one has project management skills, is able to design systems, enter sales and other more specialized roles. Does this meet your salary expectations for an entry level position? (YES/NO)"
+    },
+    {
+      "id": "salary_expectation_no",
+      "type": "textarea",
+      "style": null,
+      "question": "If NO, please explain:"
+    },
+    {
+      "id": null,
+      "type": "heading",
+      "style": null,
+      "question": "Student Acknowledgement"
+    },
+    {
+      "id": "ack1",
+      "type": "paragraph",
+      "style": null,
+      "question": "I hereby acknowledge the following:\r\r1. I understand that this is a six week program and that class will run every day from 0700 through 1600 and that I will have homework to complete. I understand this is a voluntary program with a selective admissions program. \r\r2. I understand that photovoltaics (PV) involves both AC and DC electricity, working on roofs, and can be very dangerous if one doesn't fully understand the implications of what they are doing. \r\r3. I agree to comply with the safety requirements and directions from Tidewater Community College/PSU instructional staff for the safety of myself, my fellow students and instructors.\r\r4. I understand that I will be provided opportunities to meet with future employees as part of this training program. I understand that employment is not guaranteed as part of my participation in this training. \r\r5. I understand that I am expected to participate 100% in this program and that successful participation is in part based upon my attendance. If I have to miss a day of class, I agree to work with my instructors to make up the class work, and notify the proper Navy liaison as defined on the first day of class.\r\r6. I understand that there will be written quizzes and hands-on demonstrations of skills in front of the instructor throughout the course. I understand the North American Board of Certified Energy Practitioners (NABCEP) Entry Level exam will be administered at the end of the 6-week intensive course. Successfully passing the NABCEP Entry Level exam provides a well-recognized entry level credential to each Sailor participating in the training course. \r\r7. I understand that I will be contacted via phone and/or email approximately three months, six months and a year after this program is completed and I exit the service. I agree to provide information about my current employment, salary, job responsibilities, and career goals. This information will not be shared with the employer and will only be used to help improve this program for other future participants.  \r\rI have reviewed this application for accuracy and to the best of my knowledge all the information provided is accurate."
+    },
+    {
+      "id": null,
+      "type": null,
+      "style": null,
+      "question": "Signature:"
+    },
+    {
+      "id": null,
+      "type": null,
+      "style": null,
+      "question": "Date:"
     }
   ]
 }

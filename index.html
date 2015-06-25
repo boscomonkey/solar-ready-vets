@@ -32,7 +32,21 @@
 
         <section id="main_content">
           <form method="POST" id="form_content">
+            <!--
+            <input type="checkbox" name="why_want_career"> Alpha<br />
+            <input type="checkbox" name="why_want_career"> Bravo<br />
+            <input type="checkbox" name="why_want_career"> Charlie<br />
+            <input type="checkbox" name="why_want_career"> Delta<br />
+            <input type="checkbox" name="why_want_career"> Echo<br />
+              -->
           </form>
+
+          <script id="checkbox-template" type="text/x-handlebars-template">
+            <div id="{{id}}" class="field-group {{style}}">
+              <input type="text" name="{{id}}" class="faux-checkbox">
+              <span class="field-description {{style}}">{{question}}</span>
+            </div>
+          </script>
 
           <script id="heading-template" type="text/x-handlebars-template">
             <div class="field-heading" id="{{id}}">{{{description}}}</div>
@@ -47,10 +61,7 @@
               <div class="field-description {{style}}">{{{description}}}</div>
               {{#each radio_buttons}}
               <div class="radio-option">
-                <input type="radio"
-                       name="{{name}}"
-                       value="{{value}}"
-                       > {{value}}
+                <input type="radio" name="{{id}}" value="{{value}}"> {{value}}
               </div>
               {{/each}}
             </div>
